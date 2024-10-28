@@ -1,0 +1,11 @@
+{
+	"cnname" : "虚拟机设计（第二部分）",
+	"type" : "output",
+	"test cases" : 3,
+	"score" : 45,
+	"sample count" : 1,
+	"args" : {
+		"code_limit" : 40
+	},
+	"data" : []
+}

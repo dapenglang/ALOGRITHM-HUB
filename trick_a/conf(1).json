@@ -1,0 +1,45 @@
+{
+  "args": {
+    "code_limit": 40
+  },
+  "data": [
+    {
+      "cases": [
+        1
+      ],
+	  "score":10
+    },
+	{
+      "cases": [
+        2
+      ],
+	  "score":15
+    },
+	{
+      "cases": [
+        3
+      ],
+	  "score":20
+    }
+  ],
+  "folder": "problem",
+  "name": "trick_a",
+  "samples": [],
+  "packed":true,
+  "title": {
+    "zh-cn": "\u865a\u62df\u673a\u8bbe\u8ba1\uff08\u7b2c\u4e8c\u90e8\u5206\uff09"
+  },
+  "type": "output",
+  "users": {
+    "HaHaTa": {
+      "std": "HaHaTa/std"
+    },
+	"caicai": {
+      "std": "caicai/std"
+    },
+	"dkf": {
+      "std": "dkf/std"
+    }
+  },
+  "version": 0
+}
